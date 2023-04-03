@@ -1,4 +1,4 @@
-import userData from '../data/mock-user-data.json'
+import userData from '@/data/mock-user-data.json'
 import Image from "next/image";
 import Link from 'next/link'
 
